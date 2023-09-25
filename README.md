@@ -6,7 +6,7 @@ Like most organizations, Citi Bike is constantly looking for ways to improve the
 
 The mission is to analyze data collected by Citi Bike (for the purposes of this short course, we will call them NY Citi Bike to make things consistent) and help key stakeholders to make smart, data-driven decisions based on the insights you uncover. 
 
-# Here’s what you’ll seek to investigate:
+# Here’s what I’ll seek to investigate:
 
 -What are the most popular pick-up locations across the city for NY Citi Bike rental?
 -How does the average trip duration vary across different age groups?
